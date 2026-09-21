@@ -1,2 +1,6 @@
-# This is a RShiny dashboard built for the Department of Health and Social Care (England) to explore and analyse their Adult Social Care metrics 
+
+Access to Adult Social Care (ASC) Activity Report data is often constrained by static reporting formats, limiting the ability of analysts and stakeholders to explore data dynamically. While the underlying datasets are rich and multi-dimensional, extracting tailored insights, such as breakdowns by demographic characteristics, service type, or time-period, can be time-consuming, often requiring searching though many tables representing different views of the same underlying data. There is a clear need for a flexible, user-friendly tool that enables efficient access to aggregated metrics without requiring advanced coding skills.
+This project was developed a proof-of-concept interactive data tool using RShiny, allowing users to apply filters and extract customised summaries from ASC Activity Report data. The tool is designed with scalability in mind, using efficient data structures and processing techniques to ensure responsive performance even with large datasets. Key functionality includes dynamic filtering, aggregation across multiple dimensions, and clear visualisation of results to support exploration and decision-making.
+
+This is a RShiny dashboard build with golem r package for the Department of Health and Social Care (England) to explore, analyse and visualise their Adult Social Care metrics. 
 
